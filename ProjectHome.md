@@ -1,0 +1,1 @@
+A distributed tableaux-based reasoning algorithm for Packaged-based Description Logic (P-DL) which provides support for inference from the point of view of an ontology module, using knowledge that is imported from other modules, without the need for complete integration of multiple ontology modules. This is an Open Source Java project in Eclipse.
